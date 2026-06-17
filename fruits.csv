@@ -1,0 +1,7 @@
+fruit,supplier,cost_price,origin
+apple,FreshFarms,18,local
+banana,TropicoLtd,6,imported
+orange,CitrusCo,12,local
+mango,TropicoLtd,25,imported
+grape,VineyardX,32,imported
+pear,OrchardCo,20,local
