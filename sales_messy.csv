@@ -1,0 +1,26 @@
+date,stall,fruit,qty,price
+2024-06-03,North,apple,12,30
+2024-06-03,north,Apple,5,30
+03/06/2024,South,banana ,20,₹10
+2024-06-04,NORTH,APPLE,9,30
+2024-06-04,South,orange,7,₹20
+2024-06-05,North,Banana,18,10
+June 5 2024,south,grape,8,50
+2024-06-05,South,mango,3,40
+2024-06-06,North ,apple,14,30
+2024-06-06,South,orange ,5,20
+2024-06-06,North,grape,10,50
+2024-06-07,South,banana,25,10
+2024-06-07,North,mango,4,40
+2024-06-03,North,apple,12,30
+2024-06-08,South,apple,-5,30
+2024-06-08,North,banana,9999,10
+2024-06-09,South,orange,,20
+2024-06-09,North,grape,7,
+2024-06-10,South,mango,6,40
+2024-06-10,North,appel,8,30
+2024-06-11,South,banana,15,10
+2024-06-11,North,orange,11,20.0
+,South,grape,9,50
+2024-06-12,South,Mango ,ten,40
+2024-06-12,North,apple,13,30
